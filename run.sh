@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python manage.py server
+./venv/bin/python3 manage.py server
